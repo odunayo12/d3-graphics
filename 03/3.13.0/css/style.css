@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+#chart-area svg {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+=======
+#chart-area {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+>>>>>>> 418f888bab265507b5431c03399ff97a0c22e106
+}
+
+#logo {
+  height: 50px;
+}
+
+.navbar-brand {
+  height: 60px;
+  padding: 5px 0px;
+}
